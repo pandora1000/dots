@@ -1,0 +1,6 @@
+2022/04/13-17:30:12.455 7da9 Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.burton.co.uk_0.indexeddb.leveldb since it was missing.
+2022/04/13-17:30:12.463 7da9 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.burton.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-18:48:56.108 18b3c Level-0 table #5: started
+2022/04/13-18:48:56.110 18b3c Level-0 table #5: 816 bytes OK
+2022/04/13-18:48:56.112 18b3c Delete type=0 #3
+2022/04/13-18:48:56.112 18b3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

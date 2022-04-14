@@ -1,0 +1,6 @@
+2022/04/06-14:25:12.981 34b Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_selfhelp.carphonewarehouse.com_0.indexeddb.leveldb since it was missing.
+2022/04/06-14:25:12.988 34b Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_selfhelp.carphonewarehouse.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/06-15:02:18.303 214b Level-0 table #5: started
+2022/04/06-15:02:18.306 214b Level-0 table #5: 2101 bytes OK
+2022/04/06-15:02:18.308 214b Delete type=0 #3
+2022/04/06-15:02:18.308 214b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

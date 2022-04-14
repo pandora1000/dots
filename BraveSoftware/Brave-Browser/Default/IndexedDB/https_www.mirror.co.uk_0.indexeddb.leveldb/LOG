@@ -1,0 +1,6 @@
+2022/04/13-18:00:45.896 14757 Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mirror.co.uk_0.indexeddb.leveldb since it was missing.
+2022/04/13-18:00:45.901 14757 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mirror.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-18:02:51.472 14755 Level-0 table #5: started
+2022/04/13-18:02:51.473 14755 Level-0 table #5: 1743 bytes OK
+2022/04/13-18:02:51.476 14755 Delete type=0 #3
+2022/04/13-18:02:51.476 14755 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

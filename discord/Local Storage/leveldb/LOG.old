@@ -1,0 +1,6 @@
+2022/04/14-18:50:58.570 12a36 Reusing MANIFEST /home/dawn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/04/14-18:50:58.570 12a36 Recovering log #135
+2022/04/14-18:50:58.570 12a36 Reusing old log /home/dawn/.config/discord/Local Storage/leveldb/000135.log 
+2022/04/14-19:01:13.570 12a44 Level-0 table #140: started
+2022/04/14-19:01:13.576 12a44 Level-0 table #140: 378950 bytes OK
+2022/04/14-19:01:13.578 12a44 Delete type=0 #135

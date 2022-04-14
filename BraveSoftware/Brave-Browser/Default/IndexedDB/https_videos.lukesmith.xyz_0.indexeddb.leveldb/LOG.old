@@ -1,0 +1,25 @@
+2022/04/11-19:49:13.251 d242 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/11-19:49:13.251 d242 Recovering log #36
+2022/04/11-19:49:13.251 d242 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/000036.log 
+2022/04/11-19:49:13.251 d242 Delete type=2 #34
+2022/04/11-19:49:24.943 10c53 Level-0 table #41: started
+2022/04/11-19:49:24.947 10c53 Level-0 table #41: 100424 bytes OK
+2022/04/11-19:49:24.950 10c53 Delete type=0 #36
+2022/04/11-19:49:24.950 10c53 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x03\x03\x00\x00\x00\x00\x00\xf8\x8b@' @ 41103 : 1
+2022/04/11-19:49:24.950 10c53 Compacting 1@0 + 1@1 files
+2022/04/11-19:49:24.955 10c53 Generated table #42@0: 3757 keys, 82098 bytes
+2022/04/11-19:49:24.955 10c53 Compacted 1@0 + 1@1 files => 82098 bytes
+2022/04/11-19:49:24.957 10c53 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/11-19:49:24.958 10c53 Delete type=2 #41
+2022/04/11-19:49:24.958 10c53 Manual compaction at level-0 from '\x00\x0a\x01\x03\x03\x00\x00\x00\x00\x00\xf8\x8b@' @ 41103 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/11-19:49:24.958 10c53 Level-0 table #44: started
+2022/04/11-19:49:24.960 10c53 Level-0 table #44: 1667 bytes OK
+2022/04/11-19:49:24.962 10c53 Delete type=2 #38
+2022/04/11-19:49:24.962 10c53 Delete type=0 #40
+2022/04/11-19:49:24.962 10c53 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x01\x03\x03\x00\x00\x00\x00\x00\xf8\x8b@' @ 43649 : 0
+2022/04/11-19:49:24.962 10c53 Compacting 1@0 + 1@1 files
+2022/04/11-19:49:24.966 10c53 Generated table #45@0: 3642 keys, 31559 bytes
+2022/04/11-19:49:24.966 10c53 Compacted 1@0 + 1@1 files => 31559 bytes
+2022/04/11-19:49:24.968 10c53 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/11-19:49:24.968 10c53 Delete type=2 #44
+2022/04/11-19:49:24.968 10c53 Manual compaction at level-0 from '\x00\x0a\x01\x03\x03\x00\x00\x00\x00\x00\xf8\x8b@' @ 43649 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

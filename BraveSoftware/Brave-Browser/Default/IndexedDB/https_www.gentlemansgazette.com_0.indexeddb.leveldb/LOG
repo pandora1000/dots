@@ -1,0 +1,7 @@
+2022/04/08-19:13:14.858 77b2 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gentlemansgazette.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/08-19:13:14.858 77b2 Recovering log #3
+2022/04/08-19:13:14.859 77b2 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gentlemansgazette.com_0.indexeddb.leveldb/000003.log 
+2022/04/08-19:13:21.589 7799 Level-0 table #5: started
+2022/04/08-19:13:21.591 7799 Level-0 table #5: 36493 bytes OK
+2022/04/08-19:13:21.593 7799 Delete type=0 #3
+2022/04/08-19:13:21.594 7799 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,66 @@
+2022/04/14-19:31:27.287 378 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/14-19:31:27.287 378 Recovering log #500
+2022/04/14-19:31:27.325 378 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000500.log 
+2022/04/14-19:31:53.219 36e Level-0 table #505: started
+2022/04/14-19:31:53.238 36e Level-0 table #505: 1157520 bytes OK
+2022/04/14-19:31:53.240 36e Delete type=0 #500
+2022/04/14-19:39:32.529 37c Compacting 1@1 + 1@2 files
+2022/04/14-19:39:32.535 37c Generated table #506@1: 426 keys, 38434 bytes
+2022/04/14-19:39:32.535 37c Compacted 1@1 + 1@2 files => 38434 bytes
+2022/04/14-19:39:32.537 37c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-19:39:32.537 37c Delete type=2 #505
+2022/04/14-19:39:32.537 37c Delete type=2 #502
+2022/04/14-19:57:20.064 1994 Level-0 table #508: started
+2022/04/14-19:57:20.077 1994 Level-0 table #508: 978854 bytes OK
+2022/04/14-19:57:20.079 1994 Delete type=0 #504
+2022/04/14-19:58:21.435 1e55 Compacting 1@1 + 1@2 files
+2022/04/14-19:58:21.441 1e55 Generated table #509@1: 512 keys, 51520 bytes
+2022/04/14-19:58:21.441 1e55 Compacted 1@1 + 1@2 files => 51520 bytes
+2022/04/14-19:58:21.443 1e55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-19:58:21.443 1e55 Delete type=2 #508
+2022/04/14-19:58:21.443 1e55 Delete type=2 #506
+2022/04/14-20:11:16.080 20e7 Level-0 table #511: started
+2022/04/14-20:11:16.094 20e7 Level-0 table #511: 1015167 bytes OK
+2022/04/14-20:11:16.097 20e7 Delete type=0 #507
+2022/04/14-20:11:46.633 20e7 Compacting 1@1 + 1@2 files
+2022/04/14-20:11:46.637 20e7 Generated table #512@1: 568 keys, 35371 bytes
+2022/04/14-20:11:46.637 20e7 Compacted 1@1 + 1@2 files => 35371 bytes
+2022/04/14-20:11:46.639 20e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-20:11:46.639 20e7 Delete type=2 #511
+2022/04/14-20:11:46.639 20e7 Delete type=2 #509
+2022/04/14-20:15:12.010 1fd8 Level-0 table #514: started
+2022/04/14-20:15:12.024 1fd8 Level-0 table #514: 951768 bytes OK
+2022/04/14-20:15:12.026 1fd8 Delete type=0 #510
+2022/04/14-20:15:54.054 20e8 Compacting 1@1 + 1@2 files
+2022/04/14-20:15:54.058 20e8 Generated table #515@1: 625 keys, 34545 bytes
+2022/04/14-20:15:54.058 20e8 Compacted 1@1 + 1@2 files => 34545 bytes
+2022/04/14-20:15:54.060 20e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-20:15:54.061 20e8 Delete type=2 #512
+2022/04/14-20:15:54.061 20e8 Delete type=2 #514
+2022/04/14-20:25:03.528 2385 Level-0 table #517: started
+2022/04/14-20:25:03.540 2385 Level-0 table #517: 1030077 bytes OK
+2022/04/14-20:25:03.544 2385 Delete type=0 #513
+2022/04/14-20:26:33.515 1f08 Compacting 1@1 + 1@2 files
+2022/04/14-20:26:33.520 1f08 Generated table #518@1: 498 keys, 38464 bytes
+2022/04/14-20:26:33.520 1f08 Compacted 1@1 + 1@2 files => 38464 bytes
+2022/04/14-20:26:33.522 1f08 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-20:36:42.434 2995 Level-0 table #520: started
+2022/04/14-20:36:42.445 2995 Level-0 table #520: 983449 bytes OK
+2022/04/14-20:36:42.448 2995 Delete type=2 #515
+2022/04/14-20:36:42.449 2995 Delete type=2 #517
+2022/04/14-20:36:42.449 2995 Delete type=0 #516
+2022/04/14-20:38:19.678 298d Compacting 1@1 + 1@2 files
+2022/04/14-20:38:19.683 298d Generated table #521@1: 572 keys, 42659 bytes
+2022/04/14-20:38:19.683 298d Compacted 1@1 + 1@2 files => 42659 bytes
+2022/04/14-20:38:19.686 298d compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-20:38:19.686 298d Delete type=2 #518
+2022/04/14-20:38:19.686 298d Delete type=2 #520
+2022/04/14-20:45:58.457 2b16 Level-0 table #523: started
+2022/04/14-20:45:58.470 2b16 Level-0 table #523: 1005642 bytes OK
+2022/04/14-20:45:58.472 2b16 Delete type=0 #519
+2022/04/14-20:46:38.304 2995 Compacting 1@1 + 1@2 files
+2022/04/14-20:46:38.309 2995 Generated table #524@1: 640 keys, 38418 bytes
+2022/04/14-20:46:38.309 2995 Compacted 1@1 + 1@2 files => 38418 bytes
+2022/04/14-20:46:38.311 2995 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-20:46:38.312 2995 Delete type=2 #523
+2022/04/14-20:46:38.312 2995 Delete type=2 #521
